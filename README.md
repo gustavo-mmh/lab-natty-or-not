@@ -22,7 +22,7 @@ Este projeto explora a fascinante história, estratégias intrincadas e lendári
 - Uma apresentação de slides engajante que cobre a história do xadrez, regras básicas, peças e seus movimentos.
 - Imagens únicas e esteticamente agradáveis que ilustram diferentes aspectos do jogo de xadrez.
 - Perfis dos grandes mestres (Judit Polgar, Garry Kasparov, Magnus Carlsen, Bobby Fischer) com suas conquistas e estilos de jogo únicos.
-
+[Ebook Chess: The Kings Game](https://github.com/gustavo-mmh/lab-natty-or-not/blob/main/Xadrez%20O%20Jogo%20dos%20Reis.pdf)
 
 
 ## 💭 Reflexão
